@@ -8,7 +8,7 @@ import Samples.*;
 public class Test001 {
 	 @Test
 	 public void testA() {
-			assertEquals(3, FloorSquareRoot.floorSqrt(18));
+			assertEquals(3, FloorSquareRoot.floorSqrt(19));
 	 }
 
 	 @Test
